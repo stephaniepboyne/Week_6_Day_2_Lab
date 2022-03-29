@@ -1,0 +1,15 @@
+{
+  "name": "painting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "mocha": "^9.2.2"
+  },
+  "scripts": {
+    "test": "mocha models/specs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
